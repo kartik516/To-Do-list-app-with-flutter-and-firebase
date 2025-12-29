@@ -1,16 +1,18 @@
-# todo_firebase_yt
+# Todo Application using Flutter and Firebase
 
-A new Flutter project.
+This is a simple Todo application developed using Flutter and Firebase.
+The application allows users to add, update, delete, and manage daily tasks.
 
-## Getting Started
+## Technologies Used
+- Flutter
+- Dart
+- Firebase Firestore
 
-This project is a starting point for a Flutter application.
+## Backend
+User-generated data is stored and managed using Firebase Firestore.
 
-A few resources to get you started if this is your first Flutter project:
+## Hosting
+Source code is hosted on GitHub. Firebase is used for backend services.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Note
+Firebase configuration files are not included for security reasons.
